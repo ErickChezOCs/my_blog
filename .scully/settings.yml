@@ -1,0 +1,11 @@
+identifier: l9g4l493v6jbe5e3
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my_blog
+homeFolder: C:\Users\Public\Documents\Partage\Angular\One_Hour_Blog\my_blog
+distFolder: dist/my_blog
+outDir: C:\Users\Public\Documents\Partage\Angular\One_Hour_Blog\my_blog\dist\static
+handle404: ''
+allowErrorCollect: true
