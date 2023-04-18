@@ -3,9 +3,9 @@ appPort: 1864
 staticPort: 1668
 reloadPort: 2667
 hostName: localhost
-projectName: my_blog
+projectName: my-blog
 homeFolder: C:\Users\Public\Documents\Partage\Angular\One_Hour_Blog\my_blog
-distFolder: dist/my_blog
+distFolder: dist/my-blog
 outDir: C:\Users\Public\Documents\Partage\Angular\One_Hour_Blog\my_blog\dist\static
 handle404: ''
 allowErrorCollect: true

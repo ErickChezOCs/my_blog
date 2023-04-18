@@ -11,7 +11,9 @@ describe('ArticlesComponent', () => {
       declarations: [ ArticlesComponent ]
     })
     .compileComponents();
+  });
 
+  beforeEach(() => {
     fixture = TestBed.createComponent(ArticlesComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
